@@ -65,9 +65,7 @@ void GameOver()
 {
     cout << "\n\n\t\t\t\t    ";
     for (int i = 0; i < Col; i++)
-    {
         cout << i << " ";
-    }
     cout << "\n\n";
     for (int i = 0; i < Row; i++)
     {
@@ -109,9 +107,7 @@ void Victory()
 {
     cout << "\n\t\t\t\t    ";
     for (int i = 0; i < Col; i++)
-    {
         cout << i << " ";
-    }
     cout << "\n\n";
     for (int i = 0; i < Row; i++)
     {
@@ -153,25 +149,17 @@ int CountGameDone()
 {
     // numerate al the non bomb cells in orginal board game
     for (int i = 0; i < Row; i++)
-    {
         for (int j = 0; j < Col; j++)
-        {
             if (OrginalBoardGame[i][j] != 'B')
                 counterNonBombCells++;
-        }
-    }
     return counterNonBombCells;
 }
 void GenerateMines(int MineNumber)
 {
     //init table
     for (int i = 0; i < Row; i++)
-    {
         for (int j = 0; j < Col; j++)
-        {
             OrginalBoardGame[i][j] = '0';
-        }
-    }
     //generate bomb location randomly and diffrent value in every time that program run
     srand(time(NULL));
     for (int count = 0; count < MineNumber; count++)
@@ -372,9 +360,7 @@ void ShowCurrentState()
     NoticeDisable();
     cout << "\n\t\t\t\t    ";
     for (int i = 0; i < Col; i++)
-    {
         cout << i << " ";
-    }
     cout << "\n\n";
     for (int i = 0; i < Row; i++)
     {
@@ -453,13 +439,9 @@ void PlayerSelect()
 {
     counterForWin = 0;
     for (int i = 0; i < Row; i++)
-    {
         for (int j = 0; j < Col; j++)
-        {
             if (playerBoardGame[i][j] != '+' && playerBoardGame[i][j] != 'F')
                 counterForWin++;
-        }
-    }
     if (IsWin() == false) // check for win
     {
         string operation;
@@ -482,15 +464,11 @@ void PlayerSelect()
         cout << " Enter cell number(row col) : ";
         cin >> RowSelected >> ColSelected;
         if (operation == "Flag" || operation == "flag" || operation == "f" || operation == "F")
-        {
             /* put,pop flag */
             Flag(RowSelected, ColSelected);
-        }
         if (operation == "Open" || operation == "O" || operation == "open" || operation == "o")
-        {
             /* open cell */
             OpenCell(RowSelected, ColSelected);
-        }
         else
         {
             cout << "Not Valid\n";
@@ -512,9 +490,7 @@ void PlayerBoard()
     // init player board game for the first time
     cout << "\n\t\t\t\t    ";
     for (int i = 0; i < Col; i++)
-    {
         cout << i << " ";
-    }
     cout << "\n\n";
     for (int i = 0; i < Row; i++)
     {
