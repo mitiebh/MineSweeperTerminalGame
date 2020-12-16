@@ -1,0 +1,26 @@
+﻿  MineSweeperGame.cpp
+D:\Sources\Course\CPP Programming\final project chapter 01\MineSweeper\MineSweeper\AsciiArt.h(9,23): warning C4018: '<': signed/unsigned mismatch
+D:\Sources\Course\CPP Programming\final project chapter 01\MineSweeper\MineSweeper\AsciiArt.h(152,23): warning C4018: '<': signed/unsigned mismatch
+D:\Sources\Course\CPP Programming\final project chapter 01\MineSweeper\MineSweeper\AsciiArt.h(295,23): warning C4018: '<': signed/unsigned mismatch
+D:\Sources\Course\CPP Programming\final project chapter 01\MineSweeper\MineSweeper\AsciiArt.h(438,23): warning C4018: '<': signed/unsigned mismatch
+D:\Sources\Course\CPP Programming\final project chapter 01\MineSweeper\MineSweeper\AsciiArt.h(581,23): warning C4018: '<': signed/unsigned mismatch
+D:\Sources\Course\CPP Programming\final project chapter 01\MineSweeper\MineSweeper\AsciiArt.h(724,23): warning C4018: '<': signed/unsigned mismatch
+D:\Sources\Course\CPP Programming\final project chapter 01\MineSweeper\MineSweeper\MineSweeperGame.cpp(176,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\Sources\Course\CPP Programming\final project chapter 01\MineSweeper\MineSweeper\MineSweeperGame.cpp(202,20): warning C4804: '<': unsafe use of type 'bool' in operation
+D:\Sources\Course\CPP Programming\final project chapter 01\MineSweeper\MineSweeper\MineSweeperGame.cpp(204,20): warning C4804: '<': unsafe use of type 'bool' in operation
+D:\Sources\Course\CPP Programming\final project chapter 01\MineSweeper\MineSweeper\MineSweeperGame.cpp(206,20): warning C4804: '<': unsafe use of type 'bool' in operation
+D:\Sources\Course\CPP Programming\final project chapter 01\MineSweeper\MineSweeper\MineSweeperGame.cpp(208,20): warning C4804: '<': unsafe use of type 'bool' in operation
+D:\Sources\Course\CPP Programming\final project chapter 01\MineSweeper\MineSweeper\MineSweeperGame.cpp(210,20): warning C4804: '<': unsafe use of type 'bool' in operation
+D:\Sources\Course\CPP Programming\final project chapter 01\MineSweeper\MineSweeper\MineSweeperGame.cpp(212,20): warning C4804: '<': unsafe use of type 'bool' in operation
+D:\Sources\Course\CPP Programming\final project chapter 01\MineSweeper\MineSweeper\MineSweeperGame.cpp(214,20): warning C4804: '<': unsafe use of type 'bool' in operation
+D:\Sources\Course\CPP Programming\final project chapter 01\MineSweeper\MineSweeper\MineSweeperGame.cpp(216,20): warning C4804: '<': unsafe use of type 'bool' in operation
+D:\Sources\Course\CPP Programming\final project chapter 01\MineSweeper\MineSweeper\MineSweeperGame.cpp(224,8): warning C4804: '<': unsafe use of type 'bool' in operation
+D:\Sources\Course\CPP Programming\final project chapter 01\MineSweeper\MineSweeper\MineSweeperGame.cpp(224,45): warning C4804: '<': unsafe use of type 'bool' in operation
+D:\Sources\Course\CPP Programming\final project chapter 01\MineSweeper\MineSweeper\MineSweeperGame.cpp(258,8): warning C4804: '<': unsafe use of type 'bool' in operation
+D:\Sources\Course\CPP Programming\final project chapter 01\MineSweeper\MineSweeper\MineSweeperGame.cpp(258,45): warning C4804: '<': unsafe use of type 'bool' in operation
+D:\Sources\Course\CPP Programming\final project chapter 01\MineSweeper\MineSweeper\MineSweeperGame.cpp(292,8): warning C4804: '<': unsafe use of type 'bool' in operation
+D:\Sources\Course\CPP Programming\final project chapter 01\MineSweeper\MineSweeper\MineSweeperGame.cpp(292,45): warning C4804: '<': unsafe use of type 'bool' in operation
+D:\Sources\Course\CPP Programming\final project chapter 01\MineSweeper\MineSweeper\MineSweeperGame.cpp(326,8): warning C4804: '<': unsafe use of type 'bool' in operation
+D:\Sources\Course\CPP Programming\final project chapter 01\MineSweeper\MineSweeper\MineSweeperGame.cpp(326,45): warning C4804: '<': unsafe use of type 'bool' in operation
+D:\Sources\Course\CPP Programming\final project chapter 01\MineSweeper\MineSweeper\MineSweeperGame.cpp(594,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  MineSweeper.vcxproj -> D:\Sources\Course\CPP Programming\final project chapter 01\MineSweeper\MineSweeper\Debug\MineSweeper.exe

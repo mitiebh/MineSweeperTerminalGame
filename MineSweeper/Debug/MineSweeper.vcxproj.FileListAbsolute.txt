@@ -1,0 +1,2 @@
+D:\Sources\Course\CPP Programming\final project chapter 01\MineSweeper\MineSweeper\Debug\MineSweeper.exe
+D:\Sources\Course\CPP Programming\final project chapter 01\MineSweeper\MineSweeper\Debug\MineSweeper.pdb
