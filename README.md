@@ -19,4 +19,4 @@ This is my first terminal game written in cplusplus, it is console application v
 - You have ONE flag operation for both put it on the board or pop it back(cancel the flag).
 - In hard mode playing, you have to only solve puzzles at the specified time.
 
-[ Gameplay Screenshot](https://drive.google.com/drive/folders/11AjbM7CbvE9X-c2VHn9FUWSET3dg_g8f?usp=sharing)
+[ Gameplay Screenshots](https://drive.google.com/drive/folders/11AjbM7CbvE9X-c2VHn9FUWSET3dg_g8f?usp=sharing)
