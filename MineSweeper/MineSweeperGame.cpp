@@ -46,12 +46,10 @@ void GameScreen(int Width, int Height) // fix size of the game screen or game wi
     int posX, posY;
     HWND console = GetConsoleWindow();
     RECT rectClient, rectWindow;
-    GetWindowRect(console, &rectWindow);
-    GetClientRect(console, &rectClient);
     posX = GetSystemMetrics(SM_CXSCREEN) / 2 - Width / 2;
     posY = GetSystemMetrics(SM_CYSCREEN) / 2 - Height / 2;
     MoveWindow(console, posX, posY, Width, Height, TRUE);
-
+    //centerilize screen window game
     CONSOLE_SCREEN_BUFFER_INFO info;
     GetConsoleScreenBufferInfo(GetStdHandle(STD_OUTPUT_HANDLE), &info);
     COORD removescrollbar =
