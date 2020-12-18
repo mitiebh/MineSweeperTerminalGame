@@ -17,6 +17,6 @@ This is my first terminal game written in cplusplus, it is console application v
   So the marked cells does not have a specific status.
 - You can also place a limited number of flags to guess the position of the mines.
 - You have ONE flag operation for both put it on the board or pop it back(cancel the flag).
-- In hard mode playing, you have to only solve puzzles at the specified time.
+- In hard mode playing, you have to only solve puzzles at the specified time.(Comming Sooon...
 
 [ Gameplay Screenshots](https://drive.google.com/drive/folders/11AjbM7CbvE9X-c2VHn9FUWSET3dg_g8f?usp=sharing)
