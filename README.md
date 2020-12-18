@@ -10,8 +10,8 @@ This is my first terminal game written in cplusplus, it is console application v
 
 ---------- Rules and Terms
 - For type your operation in game, first type KEYWORD operation that you want then type row
-  and column with space seprated for example : Open 12, it means open the cell 1-2 located in
-  row1 and column2.
+  and column with space seprated for example : Open 1 2, it means open the cell 1-2 located in
+  row 1 and column 2.
 - You are allowed to open one cell at a time in each selection.
 - Flagging occurs when a player guesses and thinks that the house contains a bomb
   So the marked cells does not have a specific status.
