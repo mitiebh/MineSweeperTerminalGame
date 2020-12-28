@@ -6,7 +6,7 @@ This is my first terminal game written in cplusplus, it is console application v
 - In this game, the goal is to find the position of mines (bombs) on the game board
   using and getting notice from the guide in cells of the game board or (numbered cells),
   each numbered cell show you that how many bombs are there near your cells.
-- You have to open the game table completely and identify all the mines to win the game.
+- You have to open the game table completely and identify all the mines to win the game. [more info...](https://en.wikipedia.org/wiki/Minesweeper_(video_game))
 
 ## Rules and Terms
 - For type your operation in game, first type KEYWORD operation that you want then type row
