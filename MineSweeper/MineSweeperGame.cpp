@@ -1,3 +1,4 @@
+// Copyright ©, written by mitiebh.
 #include <iostream>
 #include <random>
 #include <time.h>
