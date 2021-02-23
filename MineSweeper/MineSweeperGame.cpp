@@ -140,7 +140,7 @@ void GenerateMines(int MineNumber)
         OrginalBoardGame[BombLocation_i][BombLocation_j] = 'B';
     }
     // init flag counter every per enter to game -> not every per running
-    FlagCounter = 10;
+    FlagCounter = 10/2;
 }
 void WarningAroundBomb()
 {
